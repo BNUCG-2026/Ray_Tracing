@@ -18,7 +18,7 @@
 
 ### 环境要求
 
-* Python 3.7+
+* Python 3.12.12
 * Taichi 语言库 (`pip install taichi`)
 * 支持 Vulkan/Metal/CUDA 的 GPU 硬件
 
