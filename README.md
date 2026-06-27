@@ -1,5 +1,8 @@
 # Taichi Ray Tracer: 高性能迭代式光线追踪器
 
+202411081009 吴仲霞 计算机科学与技术
+---
+
 本项目是一个基于 [Taichi](https://github.com/taichi-dev/taichi) 并行计算框架实现的 Whitted-Style 光线追踪器。它通过隐式几何定义、迭代式光线弹射及物理精确的材质模型，在 GPU 上实现了实时的三维场景渲染。
 
 ## 🚀 项目概览
